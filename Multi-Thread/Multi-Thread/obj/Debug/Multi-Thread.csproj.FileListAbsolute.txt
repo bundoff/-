@@ -1,0 +1,11 @@
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\bin\Debug\Multi-Thread.exe.config
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\bin\Debug\Multi-Thread.exe
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\bin\Debug\Multi-Thread.pdb
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\obj\Debug\Multi-Thread.csproj.AssemblyReference.cache
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\obj\Debug\Multi_Thread.Form1.resources
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\obj\Debug\Multi_Thread.Properties.Resources.resources
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\obj\Debug\Multi-Thread.csproj.GenerateResource.cache
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\obj\Debug\Multi-Thread.csproj.CoreCompileInputs.cache
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\obj\Debug\Multi-Thread.exe
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\obj\Debug\Multi-Thread.pdb
+C:\Users\DiMitko\Source\Repos\Multi-Thread\Multi-Thread\obj\Debug\Multi-Thread.exe.config
